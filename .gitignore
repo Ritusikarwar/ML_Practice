@@ -1,9 +1,9 @@
 # virtual environment
-venv/
+mlmodule/
 
 # python cache
 __pycache__/
+*.pyc
 
 # jupyter
 .ipynb_checkpoints/
-pyt
