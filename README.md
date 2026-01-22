@@ -11,3 +11,4 @@ The focus is on understanding core ML concepts through implementation and experi
     a. Standardization
     b. Normalization
 5) Encoding Categorical Data
+
