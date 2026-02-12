@@ -11,4 +11,15 @@ The focus is on understanding core ML concepts through implementation and experi
     a. Standardization
     b. Normalization
 5) Encoding Categorical Data
+6) Function Transformers:-
+   a. Box-Cox Transformer
+   b.Yeo Johnson Transformer
+7) Converting numeric data to categorical Data
+   a. Binning (Discretization)  > Types of Discretization
+   # Equal Width Binning
+   # Equal Frequency
+   # K means binning
+   b.Binarization
+9) Handling Missing Data
+
 
