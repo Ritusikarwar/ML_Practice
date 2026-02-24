@@ -23,6 +23,10 @@ The focus is on understanding core ML concepts through implementation and experi
    
    b.Binarization
 9) Handling Missing Data
+10) ML models
+    - Linear regression
+    - Gradient descent
+
 
 
 
