@@ -26,6 +26,10 @@ The focus is on understanding core ML concepts through implementation and experi
 10) ML models
     - Linear regression
     - Gradient descent
+11) Methods to deal with underfitting and overfitting
+    - Regularization
+    - Bagging
+    - Boosting
 
 
 
