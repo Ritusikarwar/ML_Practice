@@ -28,6 +28,9 @@ The focus is on understanding core ML concepts through implementation and experi
     - Gradient descent
 11) Methods to deal with underfitting and overfitting
     - Regularization
+      a. Lasso Regularization
+      b.Ridge regularization
+      c. Elastic net regularization
     - Bagging
     - Boosting
 
