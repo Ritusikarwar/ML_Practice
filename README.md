@@ -25,6 +25,8 @@ The focus is on understanding core ML concepts through implementation and experi
 9) Handling Missing Data
 10) ML models
     - Linear regression
+    - Multiple regression
+    - Polynomial regression
     - Gradient descent
 11) Methods to deal with underfitting and overfitting
     - Regularization
@@ -33,8 +35,9 @@ The focus is on understanding core ML concepts through implementation and experi
       c. Elastic net regularization
     - Bagging
     - Boosting
-
-
+12) Logistic Regression
+13) Classification Algorithms
+    - Naive Bayes
 
 
 
